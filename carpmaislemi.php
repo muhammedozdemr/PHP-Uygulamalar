@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h1>Üç Sayıyı Çarpma İşlemi GET ile yapımı</h1>
+  <h1>İki Sayıyı Çarpma İşlemi GET ile yapımı</h1>
 <?php  if (!isset($_GET["sayi1"])){?>
   <form action="" method="get">
   1.Sayıyı Giriniz: <input type="text" name="sayi1"><br><br>
